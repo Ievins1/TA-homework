@@ -6,7 +6,7 @@ Implement a sorting algorithm from scratch using a programming language of your 
 
 1.1 Implement a sorting algorithm (e.g., Merge Sort, Quick Sort, or any other efficient sorting algorithm).
 
-1.2 Your implementation must:
+1.2 Your implementation must:§
 
 Not use built-in sorting functions (e.g., sort(), qsort(), or Collections.sort()).
 
@@ -14,7 +14,7 @@ Work correctly and efficiently on large datasets.
 
 # TASK 2: Networking Validation
 
-Retrieve your public IP address by making a request to the IP information API ({hidden_ip}).
+Retrieve your public IP address by making a request to the IP information API (https://ipinfo.io/ip).
 
 2.1 Write a test to ensure your public IP does not fall within the IP range 101.33.28.0 - 101.33.29.0.
 
